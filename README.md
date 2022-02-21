@@ -1,6 +1,7 @@
 # Node.js Notebooks
 ## Features
-* Enhanced REPL experience for Node.js in Notebooks (with top level awaits)
+* 
+d REPL experience for Node.js in Notebooks (with top level awaits)
 * Run & debug JavaScript, TypeScript code in node.js
 * Built in support for typescript (ships with [TypeScript](https://www.typescriptlang.org/) & [ts-node](https://typestrong.org/ts-node/)).
 * Built in support for [plotly](https://plotly.com/javascript/) (plotly.js is shipped with the extension)
@@ -19,7 +20,7 @@ Use the command `Open a sample node.js notebook` to open a sample notebook to ge
 
 ## Getting started
 * For a REPL experience use the command `Open Node.js REPL`
-    * Consider installing the [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension for an enhance user interface (toolbars).
+    * Consider installing the [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension for an enhanced user interface (toolbars).
 * For a notebook experience, create a file with the extension `*.nnb`, e.g. `sample.nnb`
     * Or use the menu item `New File...` to create a Node.js notebook
 
